@@ -54,5 +54,7 @@ For understanding, we are adding some sample images showing Mitosis. 📸 The pa
 
 
 ---
-The initial round was conquered!  Out of many, 32 teams (including ours!) have advanced to the final round. Let's keep pushing forward and bring home the win! This repository is for the final round.
+
+The initial round was conquered!  Out of many, 32 teams (including ours!) have advanced to the final round. This repository is for the final round. Our team got fifth position in this competition. (see leader_board image)
+
 ---
